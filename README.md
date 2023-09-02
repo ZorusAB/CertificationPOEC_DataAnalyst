@@ -5,4 +5,4 @@ Vous trouverez ici les fichiers compressés relatifs à la certification de la P
 
 Ils contiennent les livrables de chacun des trois projets opérationnels que nous avons effectué.
 
-Ci-joint également notre support de présentation
+Ci-joint également notre support de présentation.
